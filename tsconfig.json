@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "target": "es6",
+        "noUnusedLocals": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "outDir": "built",
+        "sourceMap": true,
+        "inlineSources": true,
+        "strict": true,
+        "strictPropertyInitialization": false
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
+
